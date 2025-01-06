@@ -1,0 +1,6 @@
+LDA 8200
+Mov B, A
+LDA 8201
+Sub  B 
+STA 8202
+HLT
